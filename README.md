@@ -11,7 +11,7 @@ La aplicación muestra un cronómetro que puede iniciar, pausar y resetear a tra
 - [JAVASCRIPT](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Clona este repositorio
-1. 
+1. [GitHub](https://github.com/Matoma1607/proyectoCronometro102i)
 
 ## Autor
 Este proyecto esta bajo licencia de Matias Salazar
